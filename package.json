@@ -18,6 +18,7 @@
     "dev:rn": "npm run build:rn -- --watch"
   },
   "author": "",
+  #hello world
   "license": "MIT",
   "dependencies": {
     "@tarojs/components": "1.2.13",
